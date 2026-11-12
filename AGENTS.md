@@ -1,5 +1,12 @@
 # LectureFlow 开发约定
 
+## 当前分支：Windows toy fork
+
+- 本分支独立维护于 `os-till-go/LectureFlow` 的 `windows-toy`，先读 [fork 定位](docs/FORK.md) 和 [Windows 说明](docs/WINDOWS.md)。用户于 2026-11-13 确认不再推动上游 Windows 合并，PR #6 已关闭。
+- 当前优先级是 CPU 小模型实验、录音安全和课后转写；不承诺实时课堂、低噪声或 Mac 功能对齐，不自动下载新模型、开启 GPU 或同步上游全部改动。
+- 后文保留上游开发约定与历史授权供追溯；其中上游 0.6.4 发布及维护授权不适用于本 fork 的新功能或发布。仅向自己的 fork 推送，不向上游 main 推送，不自动开 PR。
+- 原音、历史版本、故障提示、恢复验证及本地隐私要求继续适用，不因实验项目定位放松。
+
 ## 开始任务
 
 - 先读 [文档入口](docs/README.md)、[当前已确认需求](docs/PRODUCT.md)、[状态与未完成事项](docs/STATUS.md)，再按任务读对应 design 文档。

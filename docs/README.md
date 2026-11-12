@@ -1,5 +1,7 @@
 # LectureFlow 文档入口
 
+本分支现为独立的 Windows toy fork。先读 [fork 定位](FORK.md) 与 [Windows 运行说明](WINDOWS.md)；以下 Mac 产品文档保留用于来源与行为追溯，不表示 Windows 功能已对齐。
+
 LectureFlow 是面向英语课堂的本地 macOS 录音、英文转写与中文翻译应用。当前发布信息、实现差异和下一步统一见 [STATUS](STATUS.md)；本文不维护第二份进度。
 
 ## 按目的阅读

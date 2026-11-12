@@ -1,7 +1,7 @@
 # Windows 实验版 MVP
 
-本次贡献按 Windows MVP 和草稿 PR 范围实施，尚非正式 Windows 发行版。
-现有 macOS 产品规则和发布流程仍以 PRODUCT、STATUS 为准。
+2026-11-13 起在自己的 `windows-toy` 分支独立维护，上游 PR #6 已关闭且未合并。当前定位为 CPU 优先的实验项目，方向与维护边界见 [fork 定位](FORK.md)，尚非正式 Windows 发行版。
+本页的 PR 修复记录与 Mac 隔离说明保留为历史；本 fork 不承担 Mac 发布，也不要求上游合并 Windows 代码。
 
 ## 启动
 

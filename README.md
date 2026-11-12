@@ -1,3 +1,13 @@
+> **Windows toy fork · CPU 优先，课后转写实验**
+>
+> 当前开发分支为 [windows-toy](https://github.com/os-till-go/LectureFlow/tree/windows-toy)，由本 fork 独立维护。上游 Windows PR #6 已关闭，不要求原作者承担 Windows 更新与维护。
+>
+> 当前有录音、导入、课后转写与导出；没有 GPU 加速，不承诺课堂实时、续航或低风扇噪声。默认仍是英语专用 tiny.en，新多语种小模型尚待评估。
+>
+> [fork 定位与下一步](docs/FORK.md) · [Windows 源码启动与限制](docs/WINDOWS.md)
+
+以下保留的是上游 Mac 项目的介绍、下载和历史资料；其中 Mac 发布信息不代表本 fork 的 Windows 交付。
+
 <p align="center">
   <img src="docs/assets/hero-notebook.png" alt="LectureFlow · 听懂课堂，留下文字。把每一堂课，留在本地。" width="100%">
 </p>
@@ -88,4 +98,4 @@ zsh scripts/run
 
 ## Windows 实验入口
 
-Windows MVP 的源码启动、模型准备和未实现范围见 [Windows 实验版说明](docs/WINDOWS.md)。当前仍为草稿贡献，不提供正式 Windows 安装包。
+Windows 实验入口的源码启动、模型准备和未实现范围见 [Windows 实验版说明](docs/WINDOWS.md)。当前在自己的 fork 独立维护，不提供正式 Windows 安装包。
